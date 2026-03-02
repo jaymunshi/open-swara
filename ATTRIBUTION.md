@@ -1,6 +1,6 @@
 # Attribution
 
-Open Swara voices are derived from reference samples sourced from the following open datasets. All voices were processed and enhanced by Jintara using our proprietary humanization pipeline.
+Open Swara voices are derived from reference samples sourced from the following open datasets. All voices were processed and enhanced using a proprietary humanization pipeline.
 
 ## Source Datasets
 
@@ -28,8 +28,8 @@ Open Swara voices are derived from reference samples sourced from the following 
 ```
 @misc{openswara2026,
   title={Open Swara: The Largest Open-Source Humanized Voice Library},
-  author={Jintara},
+  author={Jay Munshi},
   year={2026},
-  url={https://github.com/jmunshi/open-swara}
+  url={https://github.com/jaymunshi/open-swara}
 }
 ```

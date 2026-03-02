@@ -82,14 +82,6 @@ See [LICENSE](LICENSE) for full terms.
 
 When using Open Swara voices, please credit:
 
-> Voices from [Open Swara](https://github.com/jmunshi/open-swara) by Jintara.
+> Voices from [Open Swara](https://github.com/jaymunshi/open-swara).
 
 See [ATTRIBUTION.md](ATTRIBUTION.md) for source dataset credits.
-
-## About Jintara
-
-Jintara is an AI product company building open-source tools and AI-driven products. Open Swara is part of the **Jintara Open Creative Commons** series:
-
-1. **Open Swara** — 4,065 humanized voices (this project)
-2. **Open Avtara** — diverse avatar faces (coming soon)
-3. **Open Raaga** — AI-generated music library (coming soon)
